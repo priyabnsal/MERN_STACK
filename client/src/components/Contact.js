@@ -88,14 +88,14 @@ const Contact = () => {
                          <div className="contact_info_image"><img src="https://img.icons8.com/ultraviolet/24/000000/filled-message.png" alt="" /></div>
                          <div className="contact_info_content">
                              <div className="contact_info_title">Email</div>
-                             <div className="contact_info_text">contact@thapa.com</div>
+                             <div className="contact_info_text">contact@priya.com</div>
                          </div>
                      </div> 
                      <div className="contact_info_item d-flex flex-row align-items-center justify-content-start">
                          <div className="contact_info_image"><img src="https://img.icons8.com/ultraviolet/24/000000/map-marker.png" alt="" /></div>
                          <div className="contact_info_content">
                              <div className="contact_info_title">Address</div>
-                             <div className="contact_info_text">Pune, MH, India</div>
+                             <div className="contact_info_text">India</div>
                          </div>
                      </div>
                  </div>
